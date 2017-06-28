@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Diarmaid",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diarmaidm/research_poc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diarmaidm/research_poc/issues"
+  },
+  "homepage": "https://github.com/diarmaidm/research_poc#readme"
 }
